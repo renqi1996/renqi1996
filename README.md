@@ -1,35 +1,33 @@
 <h2>Hello there, Long may the sun shine!</h2>
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 Hi, I am Robert. And I go by Wall-E😃. 
 ***
 A web developer from China.
 
-## 👯 Communities
-* Microsoft Student Partner
-* Deeplearning.ai event ambassador
-* Management Team Lead at Voice Of Code
-* CSE Club at CPU
-* CamPus Ambassador at Coding Ninja and Humanity Welfare Council
-* Internshala Student Partner-16
-## ⚡ Technologies
-Talk to me about
-- Front-end development using **HTML, Javascript,CSS,Bootstrap**
-- Backend development using **Flask,Django**
-- Making for **Relational Database Management Systems**
-- Robust full-stack system design implementation
-- Desktop application development using **Flutter**(Still learning)
-- Mobile application development using **Flutter and Kotlin**
-- Creating scalable cloud architecture using **AWS Cloud**
-- Solving Data structure and algorithm questions in **Java and Python**
-## Hello World!! 🤔
-- 💬 Ask me about anything and everything.
-- 📫 Read my blogs: [Harsh Blog](https://harshblog.xyz)
-- 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html)
-- 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw)
-- ⚡ Fun fact: Internet users blink less than usual.
+## 👯 About me
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
+***
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)
+**💼 Currently working as:**
 
-```⭐️ From [harshkumarkhatri](https://github.com/harshkumarkhatri)```
+Front-end Engineer, based in Shenzheng, at Tencent Music Entertainment.
+
+**🌱  Currently working on:**
+
+<code><a href="javascript:;" target="_blank"><img height="50" src="https://cdn.svgporn.com/logos/html-5.svg"></a></code>
+<code><a href="javascript:;" target="_blank"><img height="50" src="https://cdn.svgporn.com/logos/css-3.svg"></a></code>
+<code><a href="javascript:;" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
+<code><a href="javascript:;" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a></code>
+<code><a href="javascript:;" target="_blank"><img height="50" src="https://cdn.svgporn.com/logos/vue.svg"></a></code>
+<code><a href="javascript:;" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
+
+**🎯  Learing and Looking forward to learn:**
+
+<code><a href="javascript:;" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"></a></code>
+<code><a href="javascript:;" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></a></code>
+<code><a href="javascript:;" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg"></a></code>
+
+<!-- **📫  Reach me at:** -->
+
