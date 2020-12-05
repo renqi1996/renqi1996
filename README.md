@@ -1,4 +1,5 @@
-<h2>Hello there, Long may the sun shine!<img src="https://media.giphy.com/media/Xbh5F28Dog6SjJCL8F/giphy.gif" width="50"><img src="https://media.giphy.com/media/RNQ4f8D08aWve2k15t/giphy.gif" width="50"></h2>
+<h2>Hello there, Long may the sun shine!</h2>
+<!-- <img src="https://media.giphy.com/media/Xbh5F28Dog6SjJCL8F/giphy.gif" width="50"><img src="https://media.giphy.com/media/RNQ4f8D08aWve2k15t/giphy.gif" width="50"> -->
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
