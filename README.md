@@ -13,6 +13,10 @@ A web developer from China.
 
 Front-end Engineer, based in Shenzheng, at Tencent Music Entertainment.
 
+**🪁 Personal Blog:**
+
+[Wall-e の Paradise](https://www.qirencloud.com)
+
 **🌱 Currently working on:**
 
 <code><a href="javascript:;" target="_blank"><img height="50" src="https://cdn.svgporn.com/logos/html-5.svg"></a></code>
